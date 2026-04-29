@@ -12,8 +12,10 @@ I am a passionate **Python Learner** and an **English Student** on a journey to 
 - **Language:** Python 🐍
 - **Tools:** VS Code, Git, GitHub Desktop
 
-### 📈 My GitHub Stats
-(Optional: You can add cool charts here later!)
+### 📈 My GitHub Activity]
+![Stats](https://vercel.app)
+![Languages](https://vercel.app
+
 
 ---
 "The best way to predict the future is to create it."
