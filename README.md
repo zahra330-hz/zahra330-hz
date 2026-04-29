@@ -17,5 +17,5 @@ I am a passionate **Python Learner** and an **English Student** on a journey to 
 ![Languages](https://vercel.app
 
 
----
-"The best way to predict the future is to create it."
+
+The best way to predict the future is to create it.
