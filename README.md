@@ -3,7 +3,7 @@
 I am a passionate **Python Learner** and an **English Student** on a journey to become a professional developer. Welcome to my GitHub!
 
 ### 🚀 About Me
-- 🔭 I’m currently working on basic Python projects (like my Simple Calculator!).
+- 🔭 I’m currently working on basic Python projects.
 - 🌱 I’m currently learning **Python**, **Git**, and improving my **English**.
 - 🥅 2026 Goals: Master Python libraries and contribute to open-source projects.
 - ⚡ Fun fact: I love solving logic puzzles and building tools that make life easier.
