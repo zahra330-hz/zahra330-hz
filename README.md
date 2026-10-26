@@ -1,21 +1,30 @@
-# Hi there, I'm Zahra! 👋
+Hi there, I'm Zahra! 👋
 
-I am a passionate **Python Learner** and an **English Student** on a journey to become a professional developer. Welcome to my GitHub!
+🎓 Computer Science Student | Aspiring Web Developer
 
-### 🚀 About Me
-- 🔭 I’m currently working on basic Python projects.
-- 🌱 I’m currently learning **Python**, **Git**, and improving my **English**.
-- 🥅 2026 Goals: Master Python libraries and contribute to open-source projects.
-- ⚡ Fun fact: I love solving logic puzzles and building tools that make life easier.
+I'm a Computer Science student passionate about technology and programming. I'm currently learning HTML, CSS, and JavaScript to build my web development skills. I also have a basic understanding of Python and am continuing to improve my programming knowledge step by step.
 
-### 🛠 Tech Stack
-- **Language:** Python 🐍
-- **Tools:** VS Code, Git, GitHub Desktop
+🌱 About Me
 
-### 📈 My GitHub Activity]
-![Stats](https://vercel.app)
-![Languages](https://vercel.app
+- 🎓 I'm studying Computer Science.
+- 💻 I'm currently learning HTML, CSS, and JavaScript.
+- 🐍 I have basic knowledge of Python.
+- 📚 I'm continuously learning and practicing through small projects.
+- 🚀 My goal is to become a skilled developer and build useful projects.
 
------
+🛠️ Technologies I'm Learning
 
-The best way to predict the future is to create it.
+- HTML
+- CSS
+- JavaScript
+- Python (Beginner)
+
+📌 My Goals
+
+- Build a strong foundation in web development.
+- Improve my programming and problem-solving skills.
+- Create personal projects and share my progress on GitHub.
+
+---
+
+Every expert was once a beginner. I'm learning, building, and growing one step at a time. 🌱
